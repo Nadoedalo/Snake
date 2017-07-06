@@ -1,1 +1,2 @@
 Well it is just my experience of making snake with some fancy stuff like non-conflict food generator and etc.
+I've done it for the first time in 4 hours and the biggest issue were finding the empty block without iterating the whole thing and having as fast access to the cells as possible so it won't lag on large maps.
